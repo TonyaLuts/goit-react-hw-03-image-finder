@@ -1,0 +1,11 @@
+.BoxSpinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
