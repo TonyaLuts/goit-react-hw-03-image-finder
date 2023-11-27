@@ -18,6 +18,7 @@ export const LoadMoreBtn = styled.button`
   }
   &:active {
     box-shadow: 2px 2px 5px 1px #79f7f9;
+    transform: scale(1);
     transition-duration: 300ms;
   }
 `;
