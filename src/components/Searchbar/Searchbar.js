@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import toast, { Toaster } from 'react-hot-toast';
+import toast from 'react-hot-toast';
 import { FormField, FormInput, Header, SearchBtn } from './Searchbar.styled';
 import { MdOutlineImageSearch } from 'react-icons/md';
 
